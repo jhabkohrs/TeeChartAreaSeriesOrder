@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeeChartAreaGraphSeriesOrder", "TeeChartAreaGraphSeriesOrder\TeeChartAreaGraphSeriesOrder.csproj", "{1AF69CEC-9932-4054-A6CE-62BD77D3EEEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeeChartAreaGraphSeriesOrder", "TeeChartAreaGraphSeriesOrder\TeeChartAreaGraphSeriesOrder.csproj", "{1AF69CEC-9932-4054-A6CE-62BD77D3EEEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeeChartAreaGraphSeriesOrder4", "TeeChartAreaGraphSeriesOrder4\TeeChartAreaGraphSeriesOrder4.csproj", "{BEF9E5B2-7FD4-491C-A505-F17B87B2C9D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1AF69CEC-9932-4054-A6CE-62BD77D3EEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AF69CEC-9932-4054-A6CE-62BD77D3EEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AF69CEC-9932-4054-A6CE-62BD77D3EEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF9E5B2-7FD4-491C-A505-F17B87B2C9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF9E5B2-7FD4-491C-A505-F17B87B2C9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF9E5B2-7FD4-491C-A505-F17B87B2C9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF9E5B2-7FD4-491C-A505-F17B87B2C9D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
